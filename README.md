@@ -9,3 +9,4 @@ git clone https://github.com/ethcore/prism.dapp.git
 
 Restart Parity and you'll see the Dapp!
 
+**This Dapp requires Parity 1.3 with signer enabled.**
